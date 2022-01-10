@@ -35,6 +35,20 @@ This is just for updating and keep track of progress
   - [x] Data source
   - [x] Related websites and APISs
 - [ ] Data Exploration
+  - **Postponed for now**
 - [ ] Machine learning approach on market historical data (time-series)
 - [ ] Prediction using real-time data through POE API
 - [ ] Results and Conclusions
+
+ML notes:
+- [ ] Baseline
+  - [ ] Drift
+  - [ ] Means/Naive
+  - [ ] Seasonal Naive
+- [ ] Transformation?
+  - [ ] Log
+  - [ ] Power
+  - [ ] Boxcot (both)?
+- [ ] Diagnostic / Performance check
+  - [ ] Residual check to see if model is good and can be improved?
+  - [ ] 
