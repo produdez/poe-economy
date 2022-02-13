@@ -25,6 +25,7 @@ In this project, i will be:
 
 - Develop a model to predict 5 days in the future of a currency item's market value
 - Experiment and choose one model that performs
+- Expand and apply model on many different market objects
 - Compare some models, discussion and report findings
 
 ## TODO List
