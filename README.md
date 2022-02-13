@@ -21,6 +21,12 @@ In this project, i will be:
 6. Prediction using real-time data through POE API
 7. Results and Conclusions
 
+## ML Objective ! `Important`
+
+- Develop a model to predict 5 days in the future of a currency item's market value
+- Experiment and choose one model that performs
+- Compare some models, discussion and report findings
+
 ## TODO List
 
 This is just for updating and keep track of progress
@@ -34,21 +40,10 @@ This is just for updating and keep track of progress
 - [x] Data Acquisition
   - [x] Data source
   - [x] Related websites and APISs
-- [ ] Data Exploration
-  - **Postponed for now**
-- [ ] Machine learning approach on market historical data (time-series)
-- [ ] Prediction using real-time data through POE API
-- [ ] Results and Conclusions
-
-ML notes:
-- [ ] Baseline
-  - [ ] Drift
-  - [ ] Means/Naive
-  - [ ] Seasonal Naive
-- [ ] Transformation?
-  - [ ] Log
-  - [ ] Power
-  - [ ] Boxcot (both)?
-- [ ] Diagnostic / Performance check
-  - [ ] Residual check to see if model is good and can be improved?
-  - [ ] 
+- [x] Data Exploration
+- [x] Machine learning approach on market historical data (time-series)
+- [ ] ~~Prediction using real-time data through POE API~~
+- [x] Experiment and Multistep Prediction
+- [x] Experiment Comparison
+- [x] Use best model on some more objects
+- [x] Results and Conclusions
