@@ -64,11 +64,11 @@ Each in its own notebook file:
 
 3. Regressor Chain with Random Forest estimator model stepped prediction result (best model)
 
-    ![Screenshot](.\experiments\output\RandomForest_stepped_predictions.png)
+    ![Screenshot](./experiments/output/RandomForest_stepped_predictions.png)
 
 4. Feature importance for best model
 
-    ![Screenshot](.\experiments\output\RandomForest_feature_importance.png)
+    ![Screenshot](./experiments/output/RandomForest_feature_importance.png)
 
 
 5. Best model's performance on other objects
